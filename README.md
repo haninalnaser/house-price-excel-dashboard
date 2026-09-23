@@ -48,3 +48,6 @@ This dashboard demonstrates how housing data can be transformed into information
 - Dashboard development
 - Data visualization
 - Business insight interpretation
+## Dashboard Preview
+
+![House Price Analysis Dashboard](house_price_dashboard.png)
